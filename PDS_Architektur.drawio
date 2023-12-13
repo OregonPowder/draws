@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T18:59:07.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TRhCTIUCjOVlYxP0HtS7" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T21:19:37.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="APT6KccZge3Nzh1559Z_" version="22.1.8" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3703" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="-1289.95" y="-734.6700000000001" width="27.89" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-34" value="Projektablage im&lt;br&gt;DevOps&lt;br&gt;&lt;br&gt;Jobausführung&amp;nbsp;&lt;br&gt;über &lt;br&gt;Azure Remote Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-34" value="Azure Subscription:&lt;br&gt;&lt;br&gt;Projektablage im&lt;br&gt;Azure DevOps-Repo&lt;br&gt;&lt;br&gt;Jobausführung&amp;nbsp;&lt;br&gt;über &lt;br&gt;Talend Remote Engines - on prem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="-675.34" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-35" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr_engine;fillColor=#FF6666;gradientColor=none;" parent="1" vertex="1">
@@ -241,6 +241,9 @@
         </mxCell>
         <mxCell id="bPswr6uRPP71jAlzG4dA-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="-708" y="-566" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="bPswr6uRPP71jAlzG4dA-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1297.5" y="-552" width="45" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
