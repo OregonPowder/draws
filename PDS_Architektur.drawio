@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T21:20:00.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z54umhKfpffgL9av4XUR" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T10:31:45.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yHBbsoUeJ4GW5NjxOeB0" version="22.1.8" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3703" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,23 +158,21 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-50" value="PDS Application Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="-465.67" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-51" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" parent="1" vertex="1">
-          <mxGeometry x="-1043.5" y="-485.67" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-52" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="-1038.5" y="-350" width="65" height="60" as="geometry" />
+          <mxGeometry x="-1040" y="-480.66999999999996" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-53" value="Price Authorization Service&lt;br&gt;ggf. ebenfalls Postgres-DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-630" y="-465.67" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-27" target="PJB8R_SI4VqUsFEprVOb-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1007.2399999999998" y="-484.13000000000034" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-51" target="PJB8R_SI4VqUsFEprVOb-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJB8R_SI4VqUsFEprVOb-57" target="PJB8R_SI4VqUsFEprVOb-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJB8R_SI4VqUsFEprVOb-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-973.5" y="-450.6700000000003" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-57" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Server_Farm.svg;" parent="1" vertex="1">
           <mxGeometry x="-708" y="-489.66999999999996" width="78" height="78" as="geometry" />
@@ -199,8 +197,13 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="-1251.25" y="-350" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.488;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-51" target="PJB8R_SI4VqUsFEprVOb-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-50" target="PJB8R_SI4VqUsFEprVOb-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1009.3400000000001" y="-417.7700000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1217" y="-450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-52" target="PJB8R_SI4VqUsFEprVOb-67" edge="1">
           <mxGeometry relative="1" as="geometry">
