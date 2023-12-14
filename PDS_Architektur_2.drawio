@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T10:34:05.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EC5KRUSWVBAL0FJMM5Oz" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T10:54:59.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ra2QGihAJASa2PM5gwQV" version="22.1.8" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3088" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-764" width="66.5" height="88.66" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-7" value="&lt;b&gt;Presto&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-7" value="&lt;b&gt;SPM&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="-799" y="10" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-8" value="" style="group;horizontal=0;labelBorderColor=default;html=1;fontStyle=0;perimeterSpacing=5;strokeWidth=10;rounded=0;glass=0;fillColor=none;gradientColor=none;shadow=0;" parent="1" vertex="1" connectable="0">
