@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T10:33:47.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NH4XA9Pb3e3ofHkF1--3" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T10:34:05.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EC5KRUSWVBAL0FJMM5Oz" version="22.1.8" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3088" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,9 +155,6 @@
             <mxPoint x="-1141.75" y="-468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-50" value="PDS Application Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="-465.67" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-52" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-480.66999999999996" width="65" height="60" as="geometry" />
         </mxCell>
@@ -192,14 +189,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-63" value="Azure API Management&lt;br&gt;Endpoints UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-967" y="-345" width="120" height="30" as="geometry" />
+          <mxGeometry x="-980" y="-420.67" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="-1251.25" y="-350" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-50" target="PJB8R_SI4VqUsFEprVOb-64" edge="1">
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="PJB8R_SI4VqUsFEprVOb-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1009.3400000000001" y="-417.7700000000002" as="sourcePoint" />
+            <mxPoint x="-1050" y="-450.6700000000001" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1217" y="-450" />
             </Array>
