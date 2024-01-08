@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T13:14:03.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rux1kvzoWTqugJ8z-Bfz" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T13:16:08.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LLlzPndQzDwlIglti2th" version="22.1.17" type="github">
   <diagram name="Seite-1" id="osP9VikOhbHR7fOa7SQz">
     <mxGraphModel dx="2261" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="cVMqvwIyuu8IxggJA45d-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="-568.94" y="-780.0000000000001" width="27.89" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cVMqvwIyuu8IxggJA45d-14" value="Azure Subscription:&lt;br&gt;&lt;br&gt;Projektablage im&lt;br&gt;Azure DevOps - Repo&lt;br&gt;&lt;br&gt;&lt;br&gt;Jobausführung&amp;nbsp;&lt;br&gt;über &lt;br&gt;Talend Remote Engines - on prem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cVMqvwIyuu8IxggJA45d-14" value="- Azure Subscription&lt;br&gt;&lt;br&gt;- Projektablage im&lt;br&gt;Azure DevOps - Repo&lt;br&gt;&lt;br&gt;&lt;br&gt;- Jobausführung&amp;nbsp;&lt;br&gt;über &lt;br&gt;Talend Remote Engines - on prem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-687.34" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cVMqvwIyuu8IxggJA45d-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr_engine;fillColor=#FF6666;gradientColor=none;" parent="1" vertex="1">
