@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T13:57:04.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cgWgayGPnr0YRmOXdobC" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T14:09:34.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IBpD1PhtmPjugJ3WiLQo" version="22.1.17" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3088" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,12 +41,6 @@
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-10" target="PJB8R_SI4VqUsFEprVOb-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-14" target="PJB8R_SI4VqUsFEprVOb-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-14" value="&lt;b&gt;Rest Schnittstelle&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="-998" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-15" value="" style="group;horizontal=0;labelBorderColor=default;html=1;fontStyle=0;perimeterSpacing=5;strokeWidth=10;rounded=0;glass=0;fillColor=none;gradientColor=none;shadow=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-633" y="-880" width="100" height="80" as="geometry" />
