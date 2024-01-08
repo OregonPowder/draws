@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T14:09:34.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IBpD1PhtmPjugJ3WiLQo" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T14:31:06.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tJY0CPir-3AImw6qdxmZ" version="22.1.17" type="github">
   <diagram name="Seite-1" id="4qsizp8y5dEVkx0iQMWr">
     <mxGraphModel dx="3088" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="-640" y="-998" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-21" value="Managed Azure-DB Postgres SQL Server&lt;br&gt;Staging Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-21" value="Azure Database for PostgreSQL flexible server&lt;br&gt;Staging Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-955" y="-734.6700000000001" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-22" value="Azure API&lt;br&gt;Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -84,7 +84,7 @@
         <mxCell id="PJB8R_SI4VqUsFEprVOb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PJB8R_SI4VqUsFEprVOb-25" target="PJB8R_SI4VqUsFEprVOb-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJB8R_SI4VqUsFEprVOb-29" value="Managed Azure-DB Postgres SQL Server&lt;br&gt;Processing Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PJB8R_SI4VqUsFEprVOb-29" value="Azure Database for PostgreSQL flexible server&lt;br&gt;Processing Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-960" y="-638" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJB8R_SI4VqUsFEprVOb-30" value="Datenaufbereitung&lt;br&gt;Business-Logik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
