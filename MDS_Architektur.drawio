@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T21:18:37.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WiUMX8OMe8_2M-4fBc5x" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T13:14:03.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rux1kvzoWTqugJ8z-Bfz" version="22.1.17" type="github">
   <diagram name="Seite-1" id="osP9VikOhbHR7fOa7SQz">
-    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="CEzzBulH6AvLMj057orU-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" parent="1" vertex="1">
           <mxGeometry x="-577.5" y="-662.67" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7aN3aj9t51nC5HgWQcgs-1" value="MDS-Core-Service:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-780" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
